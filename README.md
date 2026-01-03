@@ -23,12 +23,13 @@ This site is a hub documenting my experience, publications, and projects. My goa
 - Developed 10+ substituted transition metal catalysts and monitored kinetics and product regioselectivity by 1H NMR spectroscopy. Optimized selectivity by iterative non-linear approach.
 - Synthesized group reagents, organic substrates, and repaired vacuum pumps.
 
-## Skills Synthesis, Air-Free Technique, Spectroscopy, Scientific Writing, MATLAB
+## Skills: 
+Synthesis, Air-Free Technique, Spectroscopy, Scientific Writing, MATLAB
 
 ## [Publications](https://scholar.google.com/citations?user=wnVOQ8UAAAAJ&hl=en)
 1. **Wheeler, T. A.**, Maddi, V. J. P., Carter, R. A., Tilley, T. D. Vanadium-Cobalt O=VCo3O4 Oxo Cubanes from V/Co Redox Exchange _submitted_, available on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6930a4b965a54c2d4aeceb5c).
   
-2. Severey, L., **Wheeler, T. A.**, Nicolay, A., Teat,. S., Tilley, T. D. Dicopper(I) Complexes of a binucleating, Dianionic, Naphthyridine Bis(amide) Ligand. [_Dalton Trans_. **2025**, 54, 8224-8233](https://pubs.rsc.org/en/content/articlelanding/2025/dt/d5dt00034c
+2. Severey, L., **Wheeler, T. A.**, Nicolay, A., Teat,. S., Tilley, T. D. Dicopper(I) Complexes of a binucleating, Dianionic, Naphthyridine Bis(amide) Ligand. [_Dalton Trans_. **2025**, 54, 8224-8233](https://pubs.rsc.org/en/content/articlelanding/2025/dt/d5dt00034c)
 
 3. **Wheeler, T. A.**, Tilley, T. D. Metal-Metal Redox Exchange to Produce Hterometallic Manganese-Cobalt Oxo Cubanes _via_ a "Dangler" Intermediate.  [_J. Am. Chem. Soc._ **2024**, 146, 29, 20279-20290](https://pubs.acs.org/doi/10.1021/jacs.4c05367). Also available on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/661dcf7721291e5d1deb736c).
 
